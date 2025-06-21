@@ -1,0 +1,2 @@
+P:/DIU_BusBuddy/android/app/.cxx/RelWithDebInfo/551b4j5o/x86_64/CMakeFiles/edit_cache.dir
+P:/DIU_BusBuddy/android/app/.cxx/RelWithDebInfo/551b4j5o/x86_64/CMakeFiles/rebuild_cache.dir
